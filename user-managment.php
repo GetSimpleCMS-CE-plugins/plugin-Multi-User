@@ -736,9 +736,9 @@ function mmManageUsersForm()
 		<p>
 			<a href="#" id="add-user"><?php i18n('user-managment/ADDUSER'); ?></a>
 		</p>
-		<p>
+		<!--p>
 			<a href="#" ONCLICK="decision('<?php i18n('user-managment/UPDATESURE'); ?>', 'load.php?id=user-managment&download_id=133')"><?php i18n('user-managment/UPDATE'); ?></a>
-		</p>
+		</p-->
 	</div>
 	
 	<table class="user_table">
